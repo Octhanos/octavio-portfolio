@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/octavio-portfolio/static/css/main.0ab658f5.css",
-    "main.js": "/octavio-portfolio/static/js/main.597a870a.js",
+    "main.js": "/octavio-portfolio/static/js/main.a29a086e.js",
     "static/media/shopify.png": "/octavio-portfolio/static/media/shopify.c3a36c3c368999f751a1.png",
+    "static/media/dalle_clone_portada.png": "/octavio-portfolio/static/media/dalle_clone_portada.f3ae709bf6775762e9fa.png",
     "static/media/articles.png": "/octavio-portfolio/static/media/articles.6b8d2fa7727561945af6.png",
     "static/media/toDo.jpg": "/octavio-portfolio/static/media/toDo.dea64b098ea7d2aad6bc.jpg",
     "static/media/me.png": "/octavio-portfolio/static/media/me.5ff4eafee6cc732440b5.png",
@@ -13,10 +14,10 @@
     "static/media/openai_project.png": "/octavio-portfolio/static/media/openai_project.3b23903ff7274da4b34f.png",
     "index.html": "/octavio-portfolio/index.html",
     "main.0ab658f5.css.map": "/octavio-portfolio/static/css/main.0ab658f5.css.map",
-    "main.597a870a.js.map": "/octavio-portfolio/static/js/main.597a870a.js.map"
+    "main.a29a086e.js.map": "/octavio-portfolio/static/js/main.a29a086e.js.map"
   },
   "entrypoints": [
     "static/css/main.0ab658f5.css",
-    "static/js/main.597a870a.js"
+    "static/js/main.a29a086e.js"
   ]
 }
