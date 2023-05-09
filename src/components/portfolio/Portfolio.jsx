@@ -34,6 +34,7 @@ const Portfolio = () => {
           <h3>A clone app of ChatGPT that help you to generate code with text</h3>
           <div className='portfolio__item-cta'>
             <a href="https://github.com/Octhanos/openai-codex" className='btn' target='_blank' rel='noreferrer'>Github</a>
+            <a href="https://octhanos.github.io/openai-codex" className='btn btn-primary' target='_blank' rel='noreferrer'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
